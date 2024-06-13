@@ -8,7 +8,6 @@ superuser: true
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 
-
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: ShanghaiTech University
@@ -28,8 +27,9 @@ profiles:
 
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Medical Imaging
+  - Generation Models
+  - Multimodal Learning
 
 education:
   - area: MSc Computer Science
