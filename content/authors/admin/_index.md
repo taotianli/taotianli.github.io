@@ -8,8 +8,6 @@ superuser: true
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 
-# Role/position/tagline
-role: Chief Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -34,28 +32,19 @@ interests:
   - Information Retrieval
 
 education:
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: MSc Computer Science
+    institution: ShanghaiTech University
+    date_start: 2022-09-01
+    date_end: 2025-06-30
     summary: |
-      GPA: 3.8/4.0
+      GPA: 3.61/4.0
+  - area: B.E. Electronic Engingeering
+    institution: ShanghaiTech University
+    date_start: 2017-09-01
+    date_end: 2021-06-30
+    summary: |
+      GPA: 3.5/4.0
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 
 # Skills
@@ -71,10 +60,7 @@ skills:
         description: ''
         percent: 100
         icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
+
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -114,4 +100,4 @@ awards:
 
 ## About Me
 
-Tianli Tao is a master student majored in Computer Science at ShanghaiTech University (Double first-class university in China). His research interest is deep learning methods with its application in medical imaging.
+I'm born in Shanghai, China. Now, I'm a master student majored in Computer Science at ShanghaiTech University (Double first-class university in China). His research interest is deep learning methods with its application in medical imaging.
