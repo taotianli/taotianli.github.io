@@ -86,16 +86,12 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+  - title: Best Thesis in School of Information Science and Technology, ShanghaiTech University
     date: '2023-07-01'
-    awarder: edX
-    icon: edx
+    awarder: ShanghaiTech University
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
+      Best Thesis in School of Information Science and Technology, ShanghaiTech University
+      - Thesis name: Automatic seizure detection based on machine learning
 ---
 
 ## About Me
