@@ -21,10 +21,10 @@ sections:
     design:
       css_class: dark
       background:
-        color: white
+        color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: stacked-peaks.svg
+          filename: city-2446326_1280.svg
           filters:
             brightness: 1.0
           size: cover
