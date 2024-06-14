@@ -21,7 +21,7 @@ sections:
     design:
       css_class: dark
       background:
-        color: black
+        color: white
         image:
           # Add your image background to `assets/media/`.
           filename: stacked-peaks.svg
@@ -36,7 +36,7 @@ sections:
       subtitle: ''
       text: |-
         My research interests lie in the intersection of high-performance algorithms and their application in neurodevelopment and neurodegenerative disease analysis using multimodal data. During my graduate study, I am the core student member of the Chinese Baby Connectome Project (CBCP), where I gained in-depth knowledge in infant data collection and sMRI & rs-fMRI data analysis. Over the past year, I have been engaged in several significant projects published in IEEE EMBC, ISBI, OHBM, ISMRM and MICCAI workshop, where I have served as the primary author. 
-        
+
         Please reach out to collaborate 😃
     design:
       columns: '1'
