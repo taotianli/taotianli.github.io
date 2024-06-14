@@ -30,7 +30,7 @@ interests:
   - Multimodal Learning
   - Medical Imaging Analysis
   - Brain Network Analysis
-  - Generation Models
+  - Generative Models
 
 education:
   - area: MSc Computer Science
