@@ -27,9 +27,10 @@ profiles:
 
 interests:
   - Artificial Intelligence
-  - Medical Imaging
-  - Generation Models
   - Multimodal Learning
+  - Medical Imaging Analysis
+  - Brain Network Analysis
+  - Generation Models
 
 education:
   - area: MSc Computer Science
@@ -87,13 +88,13 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: Best Thesis in School of Information Science and Technology, ShanghaiTech University
-    date: '2023-07-01'
+    date: '2021-07-01'
     awarder: ShanghaiTech University
     summary: |
-      Best Thesis in School of Information Science and Technology, ShanghaiTech University
+      Best Thesis
       - Thesis name: Automatic seizure detection based on machine learning
 ---
 
 ## About Me
 
-I'm born in Shanghai, China. Now, I'm a master student majored in Computer Science at ShanghaiTech University (Double first-class university in China). My research interest is deep learning methods with its application in medical imaging.
+I'm born in Shanghai, China. Now, I'm a master student majored in Computer Science at ShanghaiTech University (Double first-class university in China). My research interest is deep learning methods with its application in medical imaging. For an extensive overview of my academic contributions and professional experience, please refer to my Google Scholar profile and curriculum vitae.
