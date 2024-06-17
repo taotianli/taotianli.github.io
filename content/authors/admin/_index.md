@@ -38,7 +38,7 @@ education:
     date_start: 2022-09-01
     date_end: 2025-06-30
     summary: |
-      GPA: 3.61/4.0
+      GPA: 3.64/4.0
   - area: B.E. Electronic Engingeering
     institution: ShanghaiTech University
     date_start: 2017-09-01
@@ -93,6 +93,9 @@ awards:
     summary: |
       Best Thesis
       - Thesis name: Automatic seizure detection based on machine learning
+  - title: Merit student award, ShanghaiTech University
+    date: '2023-12-12'
+    awarder: ShanghaiTech University
 ---
 
 ## About Me
