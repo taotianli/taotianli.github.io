@@ -16,7 +16,7 @@ sections:
       text: ""
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: Download CV
+        text: View Tianli's CV
         url: uploads/resume.pdf
     design:
       css_class: dark
@@ -35,9 +35,9 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        My research interests lie in the intersection of high-performance algorithms and their application in neurodevelopment and neurodegenerative disease analysis using multimodal data. During my graduate study, I am the core student member of the Chinese Baby Connectome Project (CBCP), where I gained in-depth knowledge in infant data collection and sMRI & rs-fMRI data analysis. Over the past year, I have been engaged in several significant projects published in IEEE EMBC, ISBI, OHBM, ISMRM and MICCAI workshop, where I have served as the primary author. 
+        My research interests lie in the intersection of high-performance algorithms and their application in neurodevelopment and neurodegenerative disease analysis using multimodal data. During my graduate study, I am the core student member of the Chinese Baby Connectome Project (CBCP), where I gained in-depth knowledge in infant data collection and neuroimaging data analysis. Over the past year, I have been engaged in several significant projects published in IEEE EMBC, ISBI, OHBM, ISMRM and MICCAI workshop. 
 
-        Please reach out to collaborate 😃
+        I'm looking for a PhD position at UK or EU, please contact me if you are interested in me 😃 
     design:
       columns: '1'
   # - block: collection

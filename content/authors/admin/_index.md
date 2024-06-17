@@ -97,4 +97,6 @@ awards:
 
 ## About Me
 
-I'm born in Shanghai, China. Now, I'm a master student majored in Computer Science at ShanghaiTech University (Double first-class university in China). My research interest is deep learning methods with its application in medical imaging. For an extensive overview of my academic contributions and professional experience, please refer to my Google Scholar profile and curriculum vitae.
+I'm born in Shanghai, China. Currenly, I'm a master student majored in Computer Science at ShanghaiTech University (Double first-class university in China). My research interest is deep learning methods with its application in medical imaging, especially for neurodevelopment and neurodegenerative disease. For an extensive overview of my academic experience, please refer to my Google Scholar profile and CV. 
+
+I'm looking for a PhD position at UK or EU, please contact me if you are interested in me!
