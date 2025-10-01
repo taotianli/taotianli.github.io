@@ -10,8 +10,8 @@ highlight_name: true
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: ShanghaiTech University
-    url: https://www.shanghaitech.edu.cn/
+  - name: King's College London
+    url: https://www.kcl.ac.uk/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -33,6 +33,12 @@ interests:
   - Generative Models
 
 education:
+  - area: PhD Biomedical Engineering and Imaging Science
+    institution: King's College London
+    date_start: 2025-09-01
+    date_end: ''
+    summary: |
+      Current PhD student in Biomedical Engineering and Imaging Science
   - area: MSc Computer Science
     institution: ShanghaiTech University
     date_start: 2022-09-01
@@ -100,6 +106,4 @@ awards:
 
 ## About Me
 
-I'm born in Shanghai, China. Currenly, I'm a master student majored in Computer Science at ShanghaiTech University (Double first-class university in China). My research interest is deep learning methods with its application in medical imaging, especially for neurodevelopment and neurodegenerative disease. For an extensive overview of my academic experience, please refer to my Google Scholar profile and CV. 
-
-I'm looking for a PhD position at UK or EU, please contact me if you are interested in me!
+I'm born in Shanghai, China. Currently, I'm a PhD student in Biomedical Engineering and Imaging Science at King's College London. My research interest is deep learning methods with its application in medical imaging, especially for neurodevelopment and neurodegenerative disease. For an extensive overview of my academic experience, please refer to my Google Scholar profile and CV.
